@@ -1,8 +1,10 @@
 # Praktikum 5 — Finite State Machine (Enemy AI)
 
-**Kelompok:** _(isi identitas kelompok)_
-**Anggota:** _(isi nama & NRP seluruh anggota)_
-**Link video demo:** _(isi link)_
+Anggota: 
+- Triana Velia Hutabalian (5025231190)
+- Lailatul Annisa Fitriana (5025231202)
+- Rafaela Shyra Ashma' Ramadhani (5025231217)
+
 
 Bonus yang dikerjakan: **UI Current State** (HUD + label di atas Enemy + warna Enemy per state) — `EnemyStateUI.cs`.
 
